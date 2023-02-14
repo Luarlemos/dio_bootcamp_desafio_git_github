@@ -93,7 +93,7 @@ git merge --no-ff nome_da_branch
 
 git branch -d nome_da_branch_vazia
 
-##GITHUB
+## GITHUB
 No site clicar em:
 * New repository
 * Nome do repositório
